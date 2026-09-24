@@ -8,10 +8,6 @@
 - Time/space complexity (Big-O) — enough to reason about "is this fast enough"
 - Git & GitHub: branches, commits, PRs, resolving merge conflicts
 
-**Depth target:** Comfortable writing a 100+ line program without hand-holding, and comfortable pushing/branching in Git without looking up commands.
-
-**Project:** A small CLI tool (e.g., a to-do list or expense tracker) using at least 3 data structures above, version-controlled from day one with proper commits.
-
 ---
 
 ## Phase 1 — OOP Foundations

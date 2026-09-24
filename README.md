@@ -15,7 +15,7 @@
 - Classes & Objects
 - Encapsulation
 - Abstraction
-- Inheritance (single, multiple, when to avoid it)
+- Inheritance
 - Polymorphism (compile-time vs runtime)
 - Composition vs Inheritance (know when to pick which)
 - Interfaces / Abstract classes
